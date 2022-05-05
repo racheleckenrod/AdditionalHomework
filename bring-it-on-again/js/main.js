@@ -58,6 +58,7 @@ weekEnd("Saturday")
 // psuedoCode:
 // the instructions dont make sense, looks to me like it means count by
 // threes to infinity. so to console log by threes to the number input.
+// ?dfk
 
 
 function countByThrees(n){
