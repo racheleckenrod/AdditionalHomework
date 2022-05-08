@@ -11,7 +11,7 @@ console.log(a)
 // *Functions*
 // Create a function that multiplys 3 numbers and alerts the product
 function multi(n1,n2,n3){
-    alert(n1*n2*n3);
+    alert(n1 * n2 * n3);
 }
 multi(4,5,6)
 // Create a function that takes in 4 numbers. Add the first two numbers 
@@ -58,7 +58,7 @@ weekEnd("Saturday")
 // psuedoCode:
 // the instructions dont make sense, looks to me like it means count by
 // threes to infinity. so to console log by threes to the number input.
-// ?dfk
+// 
 
 
 function countByThrees(n){

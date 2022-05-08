@@ -61,7 +61,8 @@ multiplyThreeAndCheckDivByThree(3,3,1)
 // the word x times where x was the number passed in
 function logWordXTimes(word,num){
     for(let i = 1; i <= num; i++){
+       
         console.log(word)
     }
 }
- logWordXTimes("wonderful",21)
+ logWordXTimes("wonderful ",5)
